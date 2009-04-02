@@ -1,0 +1,1274 @@
+# -*-compilation-*-
+Changing working directory to `D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files'
+Processing `D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly'
+Parsing...
+error: Incorrect lilypond version: 1.4.0 (2.7.38, 2.10.33)
+error: Consider updating the input with the convert-ly script
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/header.ly:9:15: error: unknown escaped string: `\instrument'
+  instrument = 
+               \instrument
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:8:11: error: unknown escaped string: `\instr'
+I = "1-" + 
+           \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:9:12: error: unknown escaped string: `\instr'
+II = "2-" + 
+            \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:10:13: error: unknown escaped string: `\instr'
+III = "3-" + 
+             \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:11:12: error: unknown escaped string: `\instr'
+IV = "4-" + 
+            \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:12:11: error: unknown escaped string: `\instr'
+V = "5-" + 
+           \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:13:12: error: unknown escaped string: `\instr'
+VI = "6-" + 
+            \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:14:13: error: unknown escaped string: `\instr'
+VII = "7-" + 
+             \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:15:14: error: unknown escaped string: `\instr'
+VIII = "8-" + 
+              \instr + ".ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:17:9: error: can't find file: `1-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \I
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:18:9: error: can't find file: `2-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \II
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:19:9: error: can't find file: `3-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \III
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:20:9: error: can't find file: `4-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \IV
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:21:9: error: can't find file: `5-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \V
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:22:9: error: can't find file: `6-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \VI
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:23:9: error: can't find file: `7-instr.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files')
+\include 
+         \VII
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/solo-violin-partita-i.ly:24:9: error: wrong or undefined identifier: `VIII'
+\include 
+         \VIII
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:0: error: invalid character: `#'
+
+#(if (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:0: error: syntax error, unexpected $undefined
+
+#(if (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:1: error: invalid character: `('
+#
+ (if (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:2: error: invalid character: `i'
+#(
+  if (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:3: error: invalid character: `f'
+#(i
+   f (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:5: error: invalid character: `('
+#(if 
+     (and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:6: error: invalid character: `a'
+#(if (
+      and (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:7: error: invalid character: `n'
+#(if (a
+       nd (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:8: error: invalid character: `d'
+#(if (an
+        d (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:10: error: invalid character: `('
+#(if (and 
+          (ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:11: error: invalid character: `l'
+#(if (and (
+           ly:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:12: error: invalid character: `y'
+#(if (and (l
+            y:get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:13: error: invalid character: `:'
+#(if (and (ly
+             :get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:14: error: invalid character: `g'
+#(if (and (ly:
+              get-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:15: error: invalid character: `e'
+#(if (and (ly:g
+               et-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:16: error: invalid character: `t'
+#(if (and (ly:ge
+                t-option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:17: error: invalid character: `-'
+#(if (and (ly:get
+                 -option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:18: error: invalid character: `o'
+#(if (and (ly:get-
+                  option 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:19: error: invalid character: `p'
+#(if (and (ly:get-o
+                   ption 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:20: error: invalid character: `t'
+#(if (and (ly:get-op
+                    tion 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:21: error: invalid character: `i'
+#(if (and (ly:get-opt
+                     ion 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:22: error: invalid character: `o'
+#(if (and (ly:get-opti
+                      on 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:23: error: invalid character: `n'
+#(if (and (ly:get-optio
+                       n 'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:25: error: invalid character: `''
+#(if (and (ly:get-option 
+                         'old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:26: error: invalid character: `o'
+#(if (and (ly:get-option '
+                          old-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:27: error: invalid character: `l'
+#(if (and (ly:get-option 'o
+                           ld-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:28: error: invalid character: `d'
+#(if (and (ly:get-option 'ol
+                            d-relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:29: error: invalid character: `-'
+#(if (and (ly:get-option 'old
+                             -relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:30: error: invalid character: `r'
+#(if (and (ly:get-option 'old-
+                              relative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:31: error: invalid character: `e'
+#(if (and (ly:get-option 'old-r
+                               elative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:32: error: invalid character: `l'
+#(if (and (ly:get-option 'old-re
+                                lative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:33: error: invalid character: `a'
+#(if (and (ly:get-option 'old-rel
+                                 ative)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:34: error: invalid character: `t'
+#(if (and (ly:get-option 'old-rela
+                                  tive)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:35: error: invalid character: `i'
+#(if (and (ly:get-option 'old-relat
+                                   ive)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:36: error: invalid character: `v'
+#(if (and (ly:get-option 'old-relati
+                                    ve)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:37: error: invalid character: `e'
+#(if (and (ly:get-option 'old-relativ
+                                     e)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:32:38: error: invalid character: `)'
+#(if (and (ly:get-option 'old-relative
+                                      )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:6: error: invalid character: `('
+      
+      (defined? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:7: error: invalid character: `d'
+      (
+       defined? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:8: error: invalid character: `e'
+      (d
+        efined? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:9: error: invalid character: `f'
+      (de
+         fined? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:10: error: invalid character: `i'
+      (def
+          ined? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:11: error: invalid character: `n'
+      (defi
+           ned? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:12: error: invalid character: `e'
+      (defin
+            ed? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:13: error: invalid character: `d'
+      (define
+             d? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:14: error: invalid character: `?'
+      (defined
+              ? 'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:16: error: invalid character: `''
+      (defined? 
+                'input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:17: error: invalid character: `i'
+      (defined? '
+                 input-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:18: error: invalid character: `n'
+      (defined? 'i
+                  nput-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:19: error: invalid character: `p'
+      (defined? 'in
+                   put-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:20: error: invalid character: `u'
+      (defined? 'inp
+                    ut-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:21: error: invalid character: `t'
+      (defined? 'inpu
+                     t-file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:22: error: invalid character: `-'
+      (defined? 'input
+                      -file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:23: error: invalid character: `f'
+      (defined? 'input-
+                       file-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:24: error: invalid character: `i'
+      (defined? 'input-f
+                        ile-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:25: error: invalid character: `l'
+      (defined? 'input-fi
+                         le-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:26: error: invalid character: `e'
+      (defined? 'input-fil
+                          e-name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:27: error: invalid character: `-'
+      (defined? 'input-file
+                           -name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:28: error: invalid character: `n'
+      (defined? 'input-file-
+                            name)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:29: error: invalid character: `a'
+      (defined? 'input-file-n
+                             ame)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:30: error: invalid character: `m'
+      (defined? 'input-file-na
+                              me)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:31: error: invalid character: `e'
+      (defined? 'input-file-nam
+                               e)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:33:32: error: invalid character: `)'
+      (defined? 'input-file-name
+                                )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:6: error: invalid character: `('
+      
+      (not (ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:7: error: invalid character: `n'
+      (
+       not (ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:8: error: invalid character: `o'
+      (n
+        ot (ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:9: error: invalid character: `t'
+      (no
+         t (ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:11: error: invalid character: `('
+      (not 
+           (ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:12: error: invalid character: `l'
+      (not (
+            ly:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:13: error: invalid character: `y'
+      (not (l
+             y:get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:14: error: invalid character: `:'
+      (not (ly
+              :get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:15: error: invalid character: `g'
+      (not (ly:
+               get-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:16: error: invalid character: `e'
+      (not (ly:g
+                et-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:17: error: invalid character: `t'
+      (not (ly:ge
+                 t-option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:18: error: invalid character: `-'
+      (not (ly:get
+                  -option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:19: error: invalid character: `o'
+      (not (ly:get-
+                   option 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:20: error: invalid character: `p'
+      (not (ly:get-o
+                    ption 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:21: error: invalid character: `t'
+      (not (ly:get-op
+                     tion 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:22: error: invalid character: `i'
+      (not (ly:get-opt
+                      ion 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:23: error: invalid character: `o'
+      (not (ly:get-opti
+                       on 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:24: error: invalid character: `n'
+      (not (ly:get-optio
+                        n 'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:26: error: invalid character: `''
+      (not (ly:get-option 
+                          'old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:27: error: invalid character: `o'
+      (not (ly:get-option '
+                           old-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:28: error: invalid character: `l'
+      (not (ly:get-option 'o
+                            ld-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:29: error: invalid character: `d'
+      (not (ly:get-option 'ol
+                             d-relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:30: error: invalid character: `-'
+      (not (ly:get-option 'old
+                              -relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:31: error: invalid character: `r'
+      (not (ly:get-option 'old-
+                               relative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:32: error: invalid character: `e'
+      (not (ly:get-option 'old-r
+                                elative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:33: error: invalid character: `l'
+      (not (ly:get-option 'old-re
+                                 lative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:34: error: invalid character: `a'
+      (not (ly:get-option 'old-rel
+                                  ative-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:35: error: invalid character: `t'
+      (not (ly:get-option 'old-rela
+                                   tive-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:36: error: invalid character: `i'
+      (not (ly:get-option 'old-relat
+                                    ive-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:37: error: invalid character: `v'
+      (not (ly:get-option 'old-relati
+                                     ve-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:38: error: invalid character: `e'
+      (not (ly:get-option 'old-relativ
+                                      e-used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:39: error: invalid character: `-'
+      (not (ly:get-option 'old-relative
+                                       -used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:40: error: invalid character: `u'
+      (not (ly:get-option 'old-relative-
+                                        used)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:41: error: invalid character: `s'
+      (not (ly:get-option 'old-relative-u
+                                         sed)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:42: error: invalid character: `e'
+      (not (ly:get-option 'old-relative-us
+                                          ed)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:43: error: invalid character: `d'
+      (not (ly:get-option 'old-relative-use
+                                           d)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:44: error: invalid character: `)'
+      (not (ly:get-option 'old-relative-used
+                                            )))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:45: error: invalid character: `)'
+      (not (ly:get-option 'old-relative-used)
+                                             ))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:34:46: error: invalid character: `)'
+      (not (ly:get-option 'old-relative-used))
+                                              )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:2: error: invalid character: `('
+  
+  (old-relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:3: error: invalid character: `o'
+  (
+   old-relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:4: error: invalid character: `l'
+  (o
+    ld-relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:5: error: invalid character: `d'
+  (ol
+     d-relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:6: error: invalid character: `-'
+  (old
+      -relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:7: error: invalid character: `r'
+  (old-
+       relative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:8: error: invalid character: `e'
+  (old-r
+        elative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:9: error: invalid character: `l'
+  (old-re
+         lative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:10: error: invalid character: `a'
+  (old-rel
+          ative-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:11: error: invalid character: `t'
+  (old-rela
+           tive-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:12: error: invalid character: `i'
+  (old-relat
+            ive-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:13: error: invalid character: `v'
+  (old-relati
+             ve-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:14: error: invalid character: `e'
+  (old-relativ
+              e-not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:15: error: invalid character: `-'
+  (old-relative
+               -not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:16: error: invalid character: `n'
+  (old-relative-
+                not-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:17: error: invalid character: `o'
+  (old-relative-n
+                 ot-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:18: error: invalid character: `t'
+  (old-relative-no
+                  t-used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:19: error: invalid character: `-'
+  (old-relative-not
+                   -used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:20: error: invalid character: `u'
+  (old-relative-not-
+                    used-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:21: error: invalid character: `s'
+  (old-relative-not-u
+                     sed-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:22: error: invalid character: `e'
+  (old-relative-not-us
+                      ed-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:23: error: invalid character: `d'
+  (old-relative-not-use
+                       d-message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:24: error: invalid character: `-'
+  (old-relative-not-used
+                        -message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:25: error: invalid character: `m'
+  (old-relative-not-used-
+                         message input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:26: error: invalid character: `e'
+  (old-relative-not-used-m
+                          essage input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:27: error: invalid character: `s'
+  (old-relative-not-used-me
+                           ssage input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:28: error: invalid character: `s'
+  (old-relative-not-used-mes
+                            sage input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:29: error: invalid character: `a'
+  (old-relative-not-used-mess
+                             age input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:30: error: invalid character: `g'
+  (old-relative-not-used-messa
+                              ge input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:31: error: invalid character: `e'
+  (old-relative-not-used-messag
+                               e input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:33: error: invalid character: `i'
+  (old-relative-not-used-message 
+                                 input-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:34: error: invalid character: `n'
+  (old-relative-not-used-message i
+                                  nput-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:35: error: invalid character: `p'
+  (old-relative-not-used-message in
+                                   put-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:36: error: invalid character: `u'
+  (old-relative-not-used-message inp
+                                    ut-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:37: error: invalid character: `t'
+  (old-relative-not-used-message inpu
+                                     t-file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:38: error: invalid character: `-'
+  (old-relative-not-used-message input
+                                      -file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:39: error: invalid character: `f'
+  (old-relative-not-used-message input-
+                                       file-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:40: error: invalid character: `i'
+  (old-relative-not-used-message input-f
+                                        ile-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:41: error: invalid character: `l'
+  (old-relative-not-used-message input-fi
+                                         le-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:42: error: invalid character: `e'
+  (old-relative-not-used-message input-fil
+                                          e-name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:43: error: invalid character: `-'
+  (old-relative-not-used-message input-file
+                                           -name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:44: error: invalid character: `n'
+  (old-relative-not-used-message input-file-
+                                            name))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:45: error: invalid character: `a'
+  (old-relative-not-used-message input-file-n
+                                             ame))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:46: error: invalid character: `m'
+  (old-relative-not-used-message input-file-na
+                                              me))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:47: error: invalid character: `e'
+  (old-relative-not-used-message input-file-nam
+                                               e))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:48: error: invalid character: `)'
+  (old-relative-not-used-message input-file-name
+                                                ))%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:35:49: error: invalid character: `)'
+  (old-relative-not-used-message input-file-name)
+                                                 )%% there is a problem at the end of the input file
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:0: error: invalid character: `#'
+
+#(if (and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:1: error: invalid character: `('
+#
+ (if (and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:2: error: invalid character: `i'
+#(
+  if (and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:3: error: invalid character: `f'
+#(i
+   f (and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:5: error: invalid character: `('
+#(if 
+     (and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:6: error: invalid character: `a'
+#(if (
+      and (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:7: error: invalid character: `n'
+#(if (a
+       nd (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:8: error: invalid character: `d'
+#(if (an
+        d (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:10: error: invalid character: `('
+#(if (and 
+          (not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:11: error: invalid character: `n'
+#(if (and (
+           not version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:12: error: invalid character: `o'
+#(if (and (n
+            ot version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:13: error: invalid character: `t'
+#(if (and (no
+             t version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:15: error: invalid character: `v'
+#(if (and (not 
+               version-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:16: error: invalid character: `e'
+#(if (and (not v
+                ersion-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:17: error: invalid character: `r'
+#(if (and (not ve
+                 rsion-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:18: error: invalid character: `s'
+#(if (and (not ver
+                  sion-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:19: error: invalid character: `i'
+#(if (and (not vers
+                   ion-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:20: error: invalid character: `o'
+#(if (and (not versi
+                    on-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:21: error: invalid character: `n'
+#(if (and (not versio
+                     n-seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:22: error: invalid character: `-'
+#(if (and (not version
+                      -seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:23: error: invalid character: `s'
+#(if (and (not version-
+                       seen)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:24: error: invalid character: `e'
+#(if (and (not version-s
+                        een)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:25: error: invalid character: `e'
+#(if (and (not version-se
+                         en)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:26: error: invalid character: `n'
+#(if (and (not version-see
+                          n)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:37:27: error: invalid character: `)'
+#(if (and (not version-seen
+                           )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:6: error: invalid character: `('
+      
+      (defined? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:7: error: invalid character: `d'
+      (
+       defined? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:8: error: invalid character: `e'
+      (d
+        efined? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:9: error: invalid character: `f'
+      (de
+         fined? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:10: error: invalid character: `i'
+      (def
+          ined? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:11: error: invalid character: `n'
+      (defi
+           ned? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:12: error: invalid character: `e'
+      (defin
+            ed? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:13: error: invalid character: `d'
+      (define
+             d? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:14: error: invalid character: `?'
+      (defined
+              ? 'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:16: error: invalid character: `''
+      (defined? 
+                'input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:17: error: invalid character: `i'
+      (defined? '
+                 input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:18: error: invalid character: `n'
+      (defined? 'i
+                  nput-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:19: error: invalid character: `p'
+      (defined? 'in
+                   put-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:20: error: invalid character: `u'
+      (defined? 'inp
+                    ut-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:21: error: invalid character: `t'
+      (defined? 'inpu
+                     t-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:22: error: invalid character: `-'
+      (defined? 'input
+                      -file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:23: error: invalid character: `f'
+      (defined? 'input-
+                       file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:24: error: invalid character: `i'
+      (defined? 'input-f
+                        ile-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:25: error: invalid character: `l'
+      (defined? 'input-fi
+                         le-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:26: error: invalid character: `e'
+      (defined? 'input-fil
+                          e-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:27: error: invalid character: `-'
+      (defined? 'input-file
+                           -name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:28: error: invalid character: `n'
+      (defined? 'input-file-
+                            name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:29: error: invalid character: `a'
+      (defined? 'input-file-n
+                             ame))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:30: error: invalid character: `m'
+      (defined? 'input-file-na
+                              me))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:31: error: invalid character: `e'
+      (defined? 'input-file-nam
+                               e))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:32: error: invalid character: `)'
+      (defined? 'input-file-name
+                                ))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:38:33: error: invalid character: `)'
+      (defined? 'input-file-name)
+                                 )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:2: error: invalid character: `('
+  
+  (version-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:3: error: invalid character: `v'
+  (
+   version-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:4: error: invalid character: `e'
+  (v
+    ersion-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:5: error: invalid character: `r'
+  (ve
+     rsion-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:6: error: invalid character: `s'
+  (ver
+      sion-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:7: error: invalid character: `i'
+  (vers
+       ion-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:8: error: invalid character: `o'
+  (versi
+        on-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:9: error: invalid character: `n'
+  (versio
+         n-not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:10: error: invalid character: `-'
+  (version
+          -not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:11: error: invalid character: `n'
+  (version-
+           not-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:12: error: invalid character: `o'
+  (version-n
+            ot-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:13: error: invalid character: `t'
+  (version-no
+             t-seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:14: error: invalid character: `-'
+  (version-not
+              -seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:15: error: invalid character: `s'
+  (version-not-
+               seen-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:16: error: invalid character: `e'
+  (version-not-s
+                een-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:17: error: invalid character: `e'
+  (version-not-se
+                 en-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:18: error: invalid character: `n'
+  (version-not-see
+                  n-message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:19: error: invalid character: `-'
+  (version-not-seen
+                   -message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:20: error: invalid character: `m'
+  (version-not-seen-
+                    message input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:21: error: invalid character: `e'
+  (version-not-seen-m
+                     essage input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:22: error: invalid character: `s'
+  (version-not-seen-me
+                      ssage input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:23: error: invalid character: `s'
+  (version-not-seen-mes
+                       sage input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:24: error: invalid character: `a'
+  (version-not-seen-mess
+                        age input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:25: error: invalid character: `g'
+  (version-not-seen-messa
+                         ge input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:26: error: invalid character: `e'
+  (version-not-seen-messag
+                          e input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:28: error: invalid character: `i'
+  (version-not-seen-message 
+                            input-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:29: error: invalid character: `n'
+  (version-not-seen-message i
+                             nput-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:30: error: invalid character: `p'
+  (version-not-seen-message in
+                              put-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:31: error: invalid character: `u'
+  (version-not-seen-message inp
+                               ut-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:32: error: invalid character: `t'
+  (version-not-seen-message inpu
+                                t-file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:33: error: invalid character: `-'
+  (version-not-seen-message input
+                                 -file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:34: error: invalid character: `f'
+  (version-not-seen-message input-
+                                  file-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:35: error: invalid character: `i'
+  (version-not-seen-message input-f
+                                   ile-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:36: error: invalid character: `l'
+  (version-not-seen-message input-fi
+                                    le-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:37: error: invalid character: `e'
+  (version-not-seen-message input-fil
+                                     e-name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:38: error: invalid character: `-'
+  (version-not-seen-message input-file
+                                      -name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:39: error: invalid character: `n'
+  (version-not-seen-message input-file-
+                                       name))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:40: error: invalid character: `a'
+  (version-not-seen-message input-file-n
+                                        ame))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:41: error: invalid character: `m'
+  (version-not-seen-message input-file-na
+                                         me))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:42: error: invalid character: `e'
+  (version-not-seen-message input-file-nam
+                                          e))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:43: error: invalid character: `)'
+  (version-not-seen-message input-file-name
+                                           ))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:39:44: error: invalid character: `)'
+  (version-not-seen-message input-file-name)
+                                            )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:0: error: invalid character: `#'
+
+#(ly:set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:1: error: invalid character: `('
+#
+ (ly:set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:2: error: invalid character: `l'
+#(
+  ly:set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:3: error: invalid character: `y'
+#(l
+   y:set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:4: error: invalid character: `:'
+#(ly
+    :set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:5: error: invalid character: `s'
+#(ly:
+     set-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:6: error: invalid character: `e'
+#(ly:s
+      et-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:7: error: invalid character: `t'
+#(ly:se
+       t-option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:8: error: invalid character: `-'
+#(ly:set
+        -option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:9: error: invalid character: `o'
+#(ly:set-
+         option 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:10: error: invalid character: `p'
+#(ly:set-o
+          ption 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:11: error: invalid character: `t'
+#(ly:set-op
+           tion 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:12: error: invalid character: `i'
+#(ly:set-opt
+            ion 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:13: error: invalid character: `o'
+#(ly:set-opti
+             on 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:14: error: invalid character: `n'
+#(ly:set-optio
+              n 'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:16: error: invalid character: `''
+#(ly:set-option 
+                'protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:17: error: invalid character: `p'
+#(ly:set-option '
+                 protected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:18: error: invalid character: `r'
+#(ly:set-option 'p
+                  rotected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:19: error: invalid character: `o'
+#(ly:set-option 'pr
+                   otected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:20: error: invalid character: `t'
+#(ly:set-option 'pro
+                    tected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:21: error: invalid character: `e'
+#(ly:set-option 'prot
+                     ected-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:22: error: invalid character: `c'
+#(ly:set-option 'prote
+                      cted-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:23: error: invalid character: `t'
+#(ly:set-option 'protec
+                       ted-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:24: error: invalid character: `e'
+#(ly:set-option 'protect
+                        ed-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:25: error: invalid character: `d'
+#(ly:set-option 'protecte
+                         d-scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:26: error: invalid character: `-'
+#(ly:set-option 'protected
+                          -scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:27: error: invalid character: `s'
+#(ly:set-option 'protected-
+                           scheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:28: error: invalid character: `c'
+#(ly:set-option 'protected-s
+                            cheme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:29: error: invalid character: `h'
+#(ly:set-option 'protected-sc
+                             heme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:30: error: invalid character: `e'
+#(ly:set-option 'protected-sch
+                              eme-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:31: error: invalid character: `m'
+#(ly:set-option 'protected-sche
+                               me-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:32: error: invalid character: `e'
+#(ly:set-option 'protected-schem
+                                e-parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:33: error: invalid character: `-'
+#(ly:set-option 'protected-scheme
+                                 -parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:34: error: invalid character: `p'
+#(ly:set-option 'protected-scheme-
+                                  parsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:35: error: invalid character: `a'
+#(ly:set-option 'protected-scheme-p
+                                   arsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:36: error: invalid character: `r'
+#(ly:set-option 'protected-scheme-pa
+                                    rsing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:37: error: invalid character: `s'
+#(ly:set-option 'protected-scheme-par
+                                     sing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:38: error: invalid character: `i'
+#(ly:set-option 'protected-scheme-pars
+                                      ing #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:39: error: invalid character: `n'
+#(ly:set-option 'protected-scheme-parsi
+                                       ng #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:40: error: invalid character: `g'
+#(ly:set-option 'protected-scheme-parsin
+                                        g #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:42: error: invalid character: `#'
+#(ly:set-option 'protected-scheme-parsing 
+                                          #f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:43: error: invalid character: `f'
+#(ly:set-option 'protected-scheme-parsing #
+                                           f)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:41:44: error: invalid character: `)'
+#(ly:set-option 'protected-scheme-parsing #f
+                                            )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:0: error: invalid character: `#'
+
+#(if (pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:1: error: invalid character: `('
+#
+ (if (pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:2: error: invalid character: `i'
+#(
+  if (pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:3: error: invalid character: `f'
+#(i
+   f (pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:5: error: invalid character: `('
+#(if 
+     (pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:6: error: invalid character: `p'
+#(if (
+      pair? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:7: error: invalid character: `a'
+#(if (p
+       air? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:8: error: invalid character: `i'
+#(if (pa
+        ir? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:9: error: invalid character: `r'
+#(if (pai
+         r? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:10: error: invalid character: `?'
+#(if (pair
+          ? toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:12: error: invalid character: `t'
+#(if (pair? 
+            toplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:13: error: invalid character: `o'
+#(if (pair? t
+             oplevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:14: error: invalid character: `p'
+#(if (pair? to
+              plevel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:15: error: invalid character: `l'
+#(if (pair? top
+               level-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:16: error: invalid character: `e'
+#(if (pair? topl
+                evel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:17: error: invalid character: `v'
+#(if (pair? tople
+                 vel-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:18: error: invalid character: `e'
+#(if (pair? toplev
+                  el-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:19: error: invalid character: `l'
+#(if (pair? topleve
+                   l-scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:20: error: invalid character: `-'
+#(if (pair? toplevel
+                    -scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:21: error: invalid character: `s'
+#(if (pair? toplevel-
+                     scores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:22: error: invalid character: `c'
+#(if (pair? toplevel-s
+                      cores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:23: error: invalid character: `o'
+#(if (pair? toplevel-sc
+                       ores)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:24: error: invalid character: `r'
+#(if (pair? toplevel-sco
+                        res)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:25: error: invalid character: `e'
+#(if (pair? toplevel-scor
+                         es)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:26: error: invalid character: `s'
+#(if (pair? toplevel-score
+                          s)
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:42:27: error: invalid character: `)'
+#(if (pair? toplevel-scores
+                           )
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:2: error: invalid character: `('
+  
+  (toplevel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:3: error: invalid character: `t'
+  (
+   toplevel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:4: error: invalid character: `o'
+  (t
+    oplevel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:5: error: invalid character: `p'
+  (to
+     plevel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:6: error: invalid character: `l'
+  (top
+      level-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:7: error: invalid character: `e'
+  (topl
+       evel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:8: error: invalid character: `v'
+  (tople
+        vel-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:9: error: invalid character: `e'
+  (toplev
+         el-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:10: error: invalid character: `l'
+  (topleve
+          l-book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:11: error: invalid character: `-'
+  (toplevel
+           -book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:12: error: invalid character: `b'
+  (toplevel-
+            book-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:13: error: invalid character: `o'
+  (toplevel-b
+             ook-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:14: error: invalid character: `o'
+  (toplevel-bo
+              ok-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:15: error: invalid character: `k'
+  (toplevel-boo
+               k-handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:16: error: invalid character: `-'
+  (toplevel-book
+                -handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:17: error: invalid character: `h'
+  (toplevel-book-
+                 handler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:18: error: invalid character: `a'
+  (toplevel-book-h
+                  andler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:19: error: invalid character: `n'
+  (toplevel-book-ha
+                   ndler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:20: error: invalid character: `d'
+  (toplevel-book-han
+                    dler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:21: error: invalid character: `l'
+  (toplevel-book-hand
+                     ler
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:22: error: invalid character: `e'
+  (toplevel-book-handl
+                      er
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:43:23: error: invalid character: `r'
+  (toplevel-book-handle
+                       r
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:3: error: invalid character: `p'
+   
+   parser
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:4: error: invalid character: `a'
+   p
+    arser
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:5: error: invalid character: `r'
+   pa
+     rser
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:6: error: invalid character: `s'
+   par
+      ser
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:7: error: invalid character: `e'
+   pars
+       er
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:44:8: error: invalid character: `r'
+   parse
+        r
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:3: error: invalid character: `('
+   
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:4: error: invalid character: `a'
+   (
+    apply ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:5: error: invalid character: `p'
+   (a
+     pply ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:6: error: invalid character: `p'
+   (ap
+      ply ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:7: error: invalid character: `l'
+   (app
+       ly ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:8: error: invalid character: `y'
+   (appl
+        y ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:10: error: invalid character: `l'
+   (apply 
+          ly:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:11: error: invalid character: `y'
+   (apply l
+           y:make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:12: error: invalid character: `:'
+   (apply ly
+            :make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:13: error: invalid character: `m'
+   (apply ly:
+             make-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:14: error: invalid character: `a'
+   (apply ly:m
+              ake-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:15: error: invalid character: `k'
+   (apply ly:ma
+               ke-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:16: error: invalid character: `e'
+   (apply ly:mak
+                e-book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:17: error: invalid character: `-'
+   (apply ly:make
+                 -book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:18: error: invalid character: `b'
+   (apply ly:make-
+                  book $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:19: error: invalid character: `o'
+   (apply ly:make-b
+                   ook $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:20: error: invalid character: `o'
+   (apply ly:make-bo
+                    ok $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:21: error: invalid character: `k'
+   (apply ly:make-boo
+                     k $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:23: error: invalid character: `$'
+   (apply ly:make-book 
+                       $defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:24: error: invalid character: `d'
+   (apply ly:make-book $
+                        defaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:25: error: invalid character: `e'
+   (apply ly:make-book $d
+                         efaultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:26: error: invalid character: `f'
+   (apply ly:make-book $de
+                          faultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:27: error: invalid character: `a'
+   (apply ly:make-book $def
+                           aultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:28: error: invalid character: `u'
+   (apply ly:make-book $defa
+                            ultpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:29: error: invalid character: `l'
+   (apply ly:make-book $defau
+                             ltpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:30: error: invalid character: `t'
+   (apply ly:make-book $defaul
+                              tpaper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:31: error: invalid character: `p'
+   (apply ly:make-book $default
+                               paper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:32: error: invalid character: `a'
+   (apply ly:make-book $defaultp
+                                aper $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:33: error: invalid character: `p'
+   (apply ly:make-book $defaultpa
+                                 per $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:34: error: invalid character: `e'
+   (apply ly:make-book $defaultpap
+                                  er $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:35: error: invalid character: `r'
+   (apply ly:make-book $defaultpape
+                                   r $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:37: error: invalid character: `$'
+   (apply ly:make-book $defaultpaper 
+                                     $defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:38: error: invalid character: `d'
+   (apply ly:make-book $defaultpaper $
+                                      defaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:39: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $d
+                                       efaultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:40: error: invalid character: `f'
+   (apply ly:make-book $defaultpaper $de
+                                        faultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:41: error: invalid character: `a'
+   (apply ly:make-book $defaultpaper $def
+                                         aultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:42: error: invalid character: `u'
+   (apply ly:make-book $defaultpaper $defa
+                                          ultheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:43: error: invalid character: `l'
+   (apply ly:make-book $defaultpaper $defau
+                                           ltheader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:44: error: invalid character: `t'
+   (apply ly:make-book $defaultpaper $defaul
+                                            theader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:45: error: invalid character: `h'
+   (apply ly:make-book $defaultpaper $default
+                                             header toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:46: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $defaulth
+                                              eader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:47: error: invalid character: `a'
+   (apply ly:make-book $defaultpaper $defaulthe
+                                               ader toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:48: error: invalid character: `d'
+   (apply ly:make-book $defaultpaper $defaulthea
+                                                der toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:49: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $defaulthead
+                                                 er toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:50: error: invalid character: `r'
+   (apply ly:make-book $defaultpaper $defaultheade
+                                                  r toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:52: error: invalid character: `t'
+   (apply ly:make-book $defaultpaper $defaultheader 
+                                                    toplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:53: error: invalid character: `o'
+   (apply ly:make-book $defaultpaper $defaultheader t
+                                                     oplevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:54: error: invalid character: `p'
+   (apply ly:make-book $defaultpaper $defaultheader to
+                                                      plevel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:55: error: invalid character: `l'
+   (apply ly:make-book $defaultpaper $defaultheader top
+                                                       level-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:56: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $defaultheader topl
+                                                        evel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:57: error: invalid character: `v'
+   (apply ly:make-book $defaultpaper $defaultheader tople
+                                                         vel-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:58: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $defaultheader toplev
+                                                          el-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:59: error: invalid character: `l'
+   (apply ly:make-book $defaultpaper $defaultheader topleve
+                                                           l-scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:60: error: invalid character: `-'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel
+                                                            -scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:61: error: invalid character: `s'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-
+                                                             scores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:62: error: invalid character: `c'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-s
+                                                              cores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:63: error: invalid character: `o'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-sc
+                                                               ores)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:64: error: invalid character: `r'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-sco
+                                                                res)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:65: error: invalid character: `e'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-scor
+                                                                 es)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:66: error: invalid character: `s'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-score
+                                                                  s)))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:67: error: invalid character: `)'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-scores
+                                                                   )))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:68: error: invalid character: `)'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-scores)
+                                                                    ))
+C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly/init.ly:45:69: error: invalid character: `)'
+   (apply ly:make-book $defaultpaper $defaultheader toplevel-scores))
+                                                                     )
+error: failed files: "D:\\Documents and Settings\\nbibb\\My Documents\\personal\\music_notes\\lilypond\\Mutopia files\\solo-violin-partita-i.ly"

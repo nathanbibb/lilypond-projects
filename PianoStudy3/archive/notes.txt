@@ -1,0 +1,94 @@
+Rhythms
+
+l	4 4 4.
+m	4 4. 4
+n	4. 4 4
+o	4 2 8
+
+Pitches
+
+bAX	b ds'	a
+bAY	b a	ds'
+bBX	b e''	as'
+bBY	b as'	e''
+bCX	b es'''	b''
+bCY	b b''	es'''
+bDX	b f''''	c''''
+bDY	b c''''	f''''
+
+cAX	c' d'	bf	
+cAY	c' bf	d'
+cBX	c' df	a,
+cBY	c' a,	df
+cCX	c' c,	af,
+cCY	c' af,	c,
+cDX	c' b,,,	g,,,
+cDY	c' g,,,	b,,,
+
+Variables
+
+bAXl = { r4	ds'4	a4.	}
+bAXm = { r4	ds'4.	a4	}
+bAXn = { r4.	ds'4	a4	}
+bAXo = { r4	ds'2	a8	}
+bAYl = { r4	a4	ds'4.	}
+bAYm = { r4	a4.	ds'4	}
+bAYn = { r4.	a4	ds'4	}
+bAYo = { r4	a2	ds'8	}
+bBXl = { r4	e''4	as'4.	}
+bBXm = { r4	e''4.	as'4	}
+bBXn = { r4.	e''4	as'4	}
+bBXo = { r4	e''2	as'8	}
+bBYl = { r4	as'4	e''4.	}
+bBYm = { r4	as'4.	e''4	}
+bBYn = { r4.	as'4	e''4	}
+bBYo = { r4	as'2	e''8	}
+bCXl = { r4	es'''4	b''4.	}
+bCXm = { r4	es'''4.	b''4	}
+bCXn = { r4.	es'''4	b''4	}
+bCXo = { r4	es'''2	b''8	}
+bCYl = { r4	b''4	es'''4.	}
+bCYm = { r4	b''4.	es'''4	}
+bCYn = { r4.	b''4	es'''4	}
+bCYo = { r4	b''2	es'''8	}
+bDXl = { r4	f''''4	c''''4.	}
+bDXm = { r4	f''''4.	c''''4	}
+bDXn = { r4.	f''''4	c''''4	}
+bDXo = { r4	f''''2	c''''8	}
+bDYl = { r4	c''''4	f''''4.	}
+bDYm = { r4	c''''4.	f''''4	}
+bDYn = { r4.	c''''4	f''''4	}
+bDYo = { r4	c''''2	f''''8	}
+
+cAXl = { r4	d'4	bf4.	}
+cAXm = { r4	d'4.	bf4	}
+cAXn = { r4.	d'4	bf4	}
+cAXo = { r4	d'2	bf8	}
+cAYl = { r4	bf4	d'4.	}
+cAYm = { r4	bf4.	d'4	}
+cAYn = { r4.	bf4	d'4	}
+cAYo = { r4	bf2	d'8	}
+cBXl = { r4	df4	a,4.	}
+cBXm = { r4	df4.	a,4	}
+cBXn = { r4.	df4	a,4	}
+cBXo = { r4	df2	a,8	}
+cBYl = { r4	a,4	df4.	}
+cBYm = { r4	a,4.	df4	}
+cBYn = { r4.	a,4	df4	}
+cBYo = { r4	a,2	df8	}
+cCXl = { r4	c,4	af,4.	}
+cCXm = { r4	c,4.	af,4	}
+cCXn = { r4.	c,4	af,4	}
+cCXo = { r4	c,2	af,8	}
+cCYl = { r4	af,4	c,4.	}
+cCYm = { r4	af,4.	c,4	}
+cCYn = { r4.	af,4	c,4	}
+cCYo = { r4	af,2	c,8	}
+cDXl = { r4	b,,,4	g,,,4.	}
+cDXm = { r4	b,,,4.	g,,,4	}
+cDXn = { r4.	b,,,4	g,,,4	}
+cDXo = { r4	b,,,2	g,,,8	}
+cDYl = { r4	g,,,4	b,,,4.	}
+cDYm = { r4	g,,,4.	b,,,4	}
+cDYn = { r4.	g,,,4	b,,,4	}
+cDYo = { r4	g,,,2	b,,,8	}

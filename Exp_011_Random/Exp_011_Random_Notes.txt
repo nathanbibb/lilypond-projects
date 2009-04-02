@@ -1,0 +1,7 @@
+Friday, Nov. 28, 2008 11:13 PM EST - Hazlet, NJ
+
+I have found a relatively simple script that will allow me to generate random numbers, and I am trying to think of a way that I can utilize this to create a random composition.  Now, random compositions are of course nothing new - I know I am not breaking any ground here.  But what interests me are the parameters involved in making a composition random.  This stems from the "Lament" I wrote in 2003, where I created a structured improvisation piece that kept the "feel" that I wanted for the music, but allowed for a wide range of freedom for the performers.  This is great when you have really talented musicians playing the piece (which I was lucky to have).
+
+Since I don't really know any musicians here and I don't have any opportunities or time to get involved, I thought it might be interesting (and a way to dislodge the creative block I've had) to create a procedural random composition that I could tweak for the right "feel".
+
+I just googled "random music generator" and was reminded of the Wolfram Tones.  I tried one out and downloaded the midi.  Maybe I should research current tech before going off on my own....
