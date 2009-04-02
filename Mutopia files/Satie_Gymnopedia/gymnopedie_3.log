@@ -1,0 +1,410 @@
+# -*-compilation-*-
+Changing working directory to `D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia'
+Processing `D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly'
+Parsing...
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:1:9: error: can't find file: `paper20.ly'
+(search path: `D:\Documents and Settings\nbibb\My Documents\personal\music_notes\lilypond\Mutopia files\Satie_Gymnopedia;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/svg/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/type1/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/fonts/otf/;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/scm;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ps;C:/Program Files/LilyPond/usr/bin/../share/lilypond/current/ly;;/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia')
+\include 
+         "paper20.ly"
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:4:51: error: syntax error, unexpected $undefined
+	title = "3$\\rm ^m$$\\rm ^e$ Gymnop\\'edie"
+                                                   ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:5:45: error: syntax error, unexpected $undefined
+	dedication = "\\`a CHARLES LEVAD\\'E"
+                                             ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:6:31: error: syntax error, unexpected $undefined
+	composer = "Erik Satie"
+                               ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:8:48: error: syntax error, unexpected $undefined
+	mutopiatitle = "Gymnop&eacute;die No. 3"
+                                                ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:9:50: error: syntax error, unexpected $undefined
+	mutopiacomposer = "E. Satie (1866 - 1925)"
+                                                  ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:10:35: error: syntax error, unexpected $undefined
+	mutopiainstrument = "Piano"
+                                   ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:11:21: error: syntax error, unexpected $undefined
+	date = "1888"
+                     ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:12:32: error: syntax error, unexpected $undefined
+	source = "Dover Edition"
+                                ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:18:27: error: syntax error, unexpected $undefined
+	style = "Classical"
+                           ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:19:35: error: syntax error, unexpected $undefined
+	copyright = "Public Domain"
+                                   ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:21:36: error: syntax error, unexpected $undefined
+	filename = "gymnopedie_3.ly"
+                                    ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:22:37: error: syntax error, unexpected $undefined
+	maintainer = "Evin Robertson"
+                                     ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:23:47: error: syntax error, unexpected $undefined
+	maintainer_email = "nitfol@my-deja.com"
+                                               ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:24:35: error: syntax error, unexpected $undefined
+	lastupdated = "2000/Oct/25"
+                                   ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:26:286: error: syntax error, unexpected $undefined
+	tagline = "\\\\This music is part of the Mutopia project, http://www.mutopiaproject.org/\\\\It has been typeset and placed in the public domain by " + \maintainer + ".\\\\Unrestricted modification and redistribution is permitted and encouraged --- copy this music and share it!"
+                                                                                                                                                                                                                                                                                              ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:27:40: error: syntax error, unexpected $undefined
+        footer = "Mutopiq-2000/10/25-39"
+                                        ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:31:9: error: unknown escaped string: `\notes'
+global = 
+         \notes {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:32:21: error: syntax error, unexpected $undefined
+	\key a \minor
+                     ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:31:16: error: errors found, ignoring music expression
+global = \notes 
+                {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:37:6: error: unknown escaped string: `\notes'
+top = 
+      \notes\relative c''' {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:38:8: error: unknown escaped string: `\property'
+	
+        \property Staff.textEmptyDimension=##t
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:38:8: error: syntax error, unexpected STRING
+	
+        \property Staff.textEmptyDimension=##t
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:39:8: error: unknown escaped string: `\property'
+	
+        \property Voice.dynamicDirection = \up
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:44:17: error: syntax error, unexpected RESTNAME, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<
+                 s2.^\textscript "Lent et grave" "Large" R2.> | R2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:44:21: error: unknown escaped string: `\textscript'
+		<s2.^
+                     \textscript "Lent et grave" "Large" R2.> | R2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:44:47: error: syntax error, unexpected STRING
+		<s2.^\textscript "Lent et grave
+                                               " "Large" R2.> | R2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:44:60: error: syntax error, unexpected >
+		<s2.^\textscript "Lent et grave" "Large" R2.
+                                                            > | R2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:47:16: error: syntax error, unexpected \!
+		
+                \! d e \> f | e d \! c |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:48:16: error: syntax error, unexpected ')'
+		
+                )e2. | g2( \< \!g4 |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:49:17: error: syntax error, unexpected \context, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<
+                 \context Voice = othervoice {\stemDown r4 <a,2 f> | s2.}
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:49:62: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<\context Voice = othervoice {\stemDown r4 <a,
+                                                              2 f> | s2.}
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:50:31: error: syntax error, unexpected \!
+		  { d2. \> ~ | 
+                               \! d2. } > |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:50:40: error: syntax error, unexpected >
+		  { d2. \> ~ | \! d2. } 
+                                        > |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:51:67: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		< )d2. \context Voice = othervoice {\stemDown r4 <a
+                                                                   2 f>}> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:54:16: error: syntax error, unexpected \!
+		
+                \! d, e f | b, \> a g |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:55:22: error: syntax error, unexpected \!
+		a2. | 
+                      \! d,2. ~ |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:56:16: error: syntax error, unexpected ')'
+		
+                )d2. | e'2.( |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:59:27: error: syntax error, unexpected ')'
+		b c \! b | 
+                           )a2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:66:24: error: syntax error, unexpected \!
+		b2 c4 | 
+                        \! d2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:67:16: error: syntax error, unexpected ')'
+		
+                )e2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:72:25: error: syntax error, unexpected \!
+		d,2. ~ | 
+                         \! )d2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:76:16: error: syntax error, unexpected \!
+		
+                \! )a2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:80:18: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<c
+                  2. a e c> ~ | <c2. a e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:80:26: error: syntax error, unexpected >
+		<c2. a e c
+                          > ~ | <c2. a e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:80:34: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<c2. a e c> ~ | <c
+                                  2. a e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:80:42: error: syntax error, unexpected >
+		<c2. a e c> ~ | <c2. a e c
+                                          > |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:37:12: error: errors found, ignoring music expression
+top = \notes
+            \relative c''' {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:85:33: error: unknown escaped string: `\notes'
+middle = \context Voice = accomp 
+                                 \notes\relative c'' {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:85:33: error: syntax error, unexpected STRING
+middle = \context Voice = accomp 
+                                 \notes\relative c'' {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:86:8: error: unknown escaped string: `\property'
+	
+        \property Voice.NoteColumn \push #'horizontal-shift = #1
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:86:8: error: syntax error, unexpected STRING
+	
+        \property Voice.NoteColumn \push #'horizontal-shift = #1
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:86:35: error: unknown escaped string: `\push'
+	\property Voice.NoteColumn 
+                                   \push #'horizontal-shift = #1
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:89:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 \p e c> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:89:38: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 \p e c> | r4 <g
+                                      2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:90:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:90:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 e c> | r4 <g
+                                   2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:91:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> | r4 <a2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:91:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 e c> | r4 <a
+                                   2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:92:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 d bes> | r4 <f2 d a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:92:37: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 d bes> | r4 <f
+                                     2 d a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:93:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=bass
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:95:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e
+                     2 c a> | r4 <e2 b g> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:95:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e2 c a> | r4 <e
+                                   2 b g> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:96:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <b
+                     2 g d> | r4 <f'2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:96:36: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <b2 g d> | r4 <f'
+                                    2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:97:22: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <b,
+                      2 g d> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:99:22: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f'
+                      2 c a> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:99:36: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f'2 c a> | r4 <g
+                                    2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:100:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f
+                     2 c a> | r4 <e2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:100:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f2 c a> | r4 <e
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:101:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f
+                     2 c a> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:101:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f2 c a> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:102:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:103:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=treble
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:105:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 \pp e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:106:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | r4 <a2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:106:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 e b> | r4 <a
+                                   2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:107:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | r4 <a2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:107:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 e b> | r4 <a
+                                   2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:108:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:108:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 e b> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:110:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 \pp e b> | r4 <a2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:110:39: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 \pp e b> | r4 <a
+                                       2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:111:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | r4 <a2 \p e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:111:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 e b> | r4 <a
+                                   2 \p e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:112:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> | r4 <g2 d bes> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:112:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 e c> | r4 <g
+                                   2 d bes> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:113:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=bass
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:115:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f
+                     2 d a> | r4 <e2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:115:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f2 d a> | r4 <e
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:116:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e
+                     2 b g> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:116:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e2 b g> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:117:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e
+                     2 b g> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:117:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e2 b g> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:118:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=treble
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:120:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:122:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=bass
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:124:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e
+                     2 c a> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:124:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e2 c a> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:125:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:125:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 e b> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:126:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e
+                     2 c a> | r4 <f2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:126:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <e2 c a> | r4 <f
+                                   2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:127:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f
+                     2 c a> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:127:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f2 c a> | r4 <g
+                                   2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:128:8: error: unknown escaped string: `\translator'
+	
+        \translator Staff=treble
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:130:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 \pp e c> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:130:39: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 \pp e c> | r4 <g
+                                       2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:131:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:131:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 e c> | r4 <g
+                                   2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:132:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a
+                     2 e c> | r4 <g2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:132:35: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <a2 e c> | r4 <g
+                                   2 e b> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:133:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <f
+                     2 c a> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:135:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 \pp e b> | r4 <a2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:135:39: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g2 \pp e b> | r4 <a
+                                       2 e c> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:136:21: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		r4 <g
+                     2 e b> | s2. |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:85:39: error: errors found, ignoring music expression
+middle = \context Voice = accomp \notes
+                                       \relative c'' {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:140:24: error: unknown escaped string: `\notes'
+bottom = \context Staff 
+                        \notes\relative c {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:140:24: error: syntax error, unexpected STRING
+bottom = \context Staff 
+                        \notes\relative c {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:178:19: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<a'
+                   2. e a,> ~ | <a2. e a,> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:178:26: error: syntax error, unexpected >
+		<a'2. e a,
+                          > ~ | <a2. e a,> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:178:34: error: syntax error, unexpected DIGIT, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		<a'2. e a,> ~ | <a
+                                  2. e a,> |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:178:41: error: syntax error, unexpected >
+		<a'2. e a,> ~ | <a2. e a,
+                                         > |
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:140:30: error: errors found, ignoring music expression
+bottom = \context Staff \notes
+                              \relative c {
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:186:16: error: syntax error, unexpected \context, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+		
+                \context Staff = treble < 
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:187:24: error: syntax error, unexpected STRING_IDENTIFIER, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+			
+                        \global
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:188:36: error: syntax error, unexpected $undefined
+			\clef treble
+                                    ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:190:32: error: unknown escaped string: `\middle'
+				
+                                \middle
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:193:24: error: syntax error, unexpected STRING_IDENTIFIER, expecting > or DRUM_PITCH or MUSIC_FUNCTION or NOTENAME_PITCH
+			
+                        \global
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:194:34: error: syntax error, unexpected $undefined
+			\clef bass
+                                  ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:195:32: error: unknown escaped string: `\bottom'
+				
+                                \bottom
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly:202:36: error: syntax error, unexpected $undefined
+		linewidth = 18.0 \cm
+                                    ;
+D:/Documents and Settings/nbibb/My Documents/personal/music_notes/lilypond/Mutopia files/Satie_Gymnopedia/gymnopedie_3.ly: 0: warning: no \version statement found, please add
+
+\version "2.10.33"
+
+for future compatibility
+error: failed files: "D:\\Documents and Settings\\nbibb\\My Documents\\personal\\music_notes\\lilypond\\Mutopia files\\Satie_Gymnopedia\\gymnopedie_3.ly"

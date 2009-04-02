@@ -1,0 +1,51 @@
+1. Pitch Type - B (starts on ds-a) or C (starts on d-bf) = as is, b c
+
+2. Octave - there are 7 total (D=deep, H=high) = DDD DD D DH H HH HHH
+
+3. Direction - 2 possible, low-high (Forward), and high-low (Reverse) = F R
+
+4. Rhythm - 8=V (very tiny), 8.=T (tiny) 4=S (small), 4.=M (medium), 2=L (long)
+Abbr. to # of 8th notes:
+L=4
+M=3
+S=2
+T=1.5
+V=1
+
+Values:
+b c
+DDD DD D DH H HH HHH
+F R
+X V T S M L
+
+5. Seperators - Between items 2, 3, and 4, a lower case "x" will be used as a seperator.
+
+Examples:
+
+bDHxFxSSM
+bDHxFxSMS
+
+Translation of rhythm:
+l = SSM
+m = SMS
+n = MSS
+o = SLV
+
+Possible rhythm combinations (equallying 7/8) of 3 notes as defined in #4 above:
+VLS
+VSL
+VMM
+SSM
+SMS
+SLV
+SVL
+MSS
+MMV
+MVM
+LVS
+LSV
+LTT
+TTL
+TLT
+
+Note values:
