@@ -12,9 +12,15 @@
 
 sol = {
 
+	\clef treble
+        \time 12/8
+			<b e'>8.	cs'8.		as4. ~ as2.		|
+			<b e'>8.	cs'8.		as4. ~ as4.	fs'4. 	|	
+			<b e'>8.	cs'8.		as4. ~ as4.	f'4.  	|
+			<b e'>8.	cs'8.		as4. ~ as4.	g'4. 	|
+			fs'4.		f'4.		g'4.		fs'4.	|
 	\clef bass
-        \time 6/4
-			}
+			<e b>8.		cs8.		as4. ~ as2.		|
 }
 
 
