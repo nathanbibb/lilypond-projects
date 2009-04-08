@@ -1,6 +1,14 @@
 Notes for "Untitled" Series of Pieces for Solo Piano
 Nathan Bibb
 
-April 2, 2009
+April 4, 2009
 
-[insert notes]
+This is a brief introductory note on my series of Untitled Piano pieces.  After finishing the music for the Catangay's production of the play "Square One" in 2005, I went through a musical slump of sorts.  I had no othr commissions, money was tight, I was focusing on my day job, and we had our second child - which incvolves an exponetial increase in work.
+
+In April 2006 (3 years ago!) I started a piece for solo piano based on a two note measure I was playing with at the time.  Over the course of the next couple of years I had 3 false starts with piano pieces that just didn't go anywhere for some reason.  These were named Piano 1, Piano 2, and Piano 3, and are actually still around, unfinished.  I had originally envisioned these pieces to be about 20 minutes a piece, but I think that was too long for me.  I really wanted to create something in the form of Morton Feldman's longer solo piano pieces.
+
+In December 2008 I had been looking at Jackson Pollack's paintings online - they were all Untitled, and there was something about them I couldn't quite pin down - an immediacy, the look of randomness, but with some underlying form that seems just out of reach.  On the evening of December 11, 2008 I started Untitled No. 1, writing straight into Lilypond all on one staff - I am focusing on the sounds instead of the notation, and I plan to go back and adjust for printing later.
+
+April 6, 2009
+
+To continue this line of thought - one of the things I saw in Pollack's paintings that I was trying to get at was this immediacy of the art.  By this, I do not mean the effect on the audience, but the immediacy in the act of creation.  In conventional painting, one can belabor a given scene, object, or stroke - painting over the original, trying o get it "just right".  But in Pollock's painings, you get the sense that during the creation, as the paint was dripping onto the canvas, the act of art was immediate - he had no time to belabor his subject, it was there for better or for worse. That was what I was trying to do with my piano pieces - immediatel write, for better or worse, and continue to move forward.  I kind of get the impression that this is what Feldman was doing.  This is why he always wrote in ink, never in pencil.  Once it was down, it was done.
