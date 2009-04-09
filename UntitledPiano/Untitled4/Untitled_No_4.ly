@@ -13,14 +13,18 @@
 sol = {
 
 	\clef treble
-        \time 12/8
-			<b e'>8.	cs'8.		as4. ~ as2.		|
-			<b e'>8.	cs'8.		as4. ~ as4.	fs'4. 	|	
-			<b e'>8.	cs'8.		as4. ~ as4.	f'4.  	|
-			<b e'>8.	cs'8.		as4. ~ as4.	g'4. 	|
-			fs'4.		f'4.		g'4.		fs'4.	|
-	\clef bass
-			<e b>8.		cs8.		as4. ~ as2.		|
+	\time 13/8
+			as'2    b,2 ~ b,8.      a''8.     gs''4 ~                           |
+			gs,,2.    g''4.           fs'2                                    |
+
+%        \time 12/8
+%			<b e'>8.	cs'8.		as4. ~ as2.		|
+%			<b e'>8.	cs'8.		as4. ~ as4.	fs'4. 	|	
+%			<b e'>8.	cs'8.		as4. ~ as4.	f'4.  	|
+%			<b e'>8.	cs'8.		as4. ~ as4.	g'4. 	|
+%			fs'4.		f'4.		g'4.		fs'4.	|
+%	\clef bass
+%			<e b>8.		cs8.		as4. ~ as2.		|
 }
 
 
