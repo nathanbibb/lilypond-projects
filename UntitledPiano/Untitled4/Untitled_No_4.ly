@@ -1,6 +1,6 @@
 \version "2.12.0"
 \header {
-  title = "Untitled No. 3"
+  title = "Untitled No. 4"
   subtitle = "for solo piano"
   composer = "Nathan Bibb"
 }
@@ -13,21 +13,16 @@
 sol = {
 
 	\clef treble
-	\time 13/8
-			as'2    b,2 ~ b,8.      a''8.     gs''4 ~                           |
-			gs,,2.    g''4.           fs'2                                    |
-
-%        \time 12/8
-%			<b e'>8.	cs'8.		as4. ~ as2.		|
-%			<b e'>8.	cs'8.		as4. ~ as4.	fs'4. 	|	
-%			<b e'>8.	cs'8.		as4. ~ as4.	f'4.  	|
-%			<b e'>8.	cs'8.		as4. ~ as4.	g'4. 	|
-%			fs'4.		f'4.		g'4.		fs'4.	|
-%	\clef bass
-%			<e b>8.		cs8.		as4. ~ as2.		|
+	\time 3/2
+			<c''	e''	g''	b''>1.
+			<c''	ds''	g''	b''>1.
+			<c''	e''	gs''	b''>1.
+			<c''	ds''	fs''	b''>1.
+			<c''	e''	fs''	b''>1.
+			<c''	ds''	f''	as''>1.
+			<c''	e''	f''	as''>1.
+			
 }
-
-
 \score {
 	\new Staff \sol
 	\layout { }
