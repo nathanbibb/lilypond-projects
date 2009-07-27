@@ -22,3 +22,7 @@ I would like to make one additional note to the comment from 4/6 above, though. 
 So the question for me, then, is how I get in touch with my material when I am writing into a command line text editor.  I do not have the luxury of playing piano very often - I should probably make time to play guitar regularly again.  For these pieces the process I have gone through is to listen to what I have done so far while I am at work or in the car, or walking or just sitting.  This has helped me digest the material I am creating as I create it.  I am not sure what impact this will have on the final outcome, though.
 
 Now to start fresh on Untitled 4...
+
+July 27, 2009
+
+It has been a long empty period for the Untitled Piano pieces, but I am back to picking up steam.  I am planning to drive down to SC to participate in an interesting theatrical experiment next weekend.  To prep, I pulled out my recording equipment and started playing an improvisation - that was on July 18.  One part I really liked, so I looped this small 2 measure phrase and overdubbed more guitar.  A lot of it was not great, but when I wrote this phrase into Lilypond as a new version of Untitled 4, it really worked and I think I will be able to finish this part in the next few days.
