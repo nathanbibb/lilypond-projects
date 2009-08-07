@@ -9,7 +9,45 @@
  #(set-paper-size "letter")
 }
 
+upper =  {
+  \clef treble
+  \time 5/4
+\repeat volta 2 {
+a'4 b'4 c'4 d'4 e'4 
+}
+}
 
+lower = {
+  \clef bass
+  \time 5/4
+  \repeat volta 2 {
+a,2 c,2 e,4 
+}
+}
+\score {
+	\new PianoStaff <<
+	\new Staff = "upper" \upper
+	\new Staff = "lower" \lower
+	>>
+	\layout { }
+}
+\score {
+	\unfoldRepeats {
+		\new PianoStaff <<
+		\set PianoStaff.instrumentName = #"Piano  "
+		\new Staff = "upper" \upper
+		\new Staff = "lower" \lower
+		>>
+	}
+	\midi { 
+	 	\context {
+			\Score
+			tempoWholesPerMinute = #(ly:make-moment 111 8)
+			}
+	}
+}
+
+%{
 sol = {
 	\clef treble
 	\time 5/4
@@ -34,38 +72,5 @@ sol = {
 	a'4	fs''4	ds''1	|
 	g,,4	d'4	cs'''1	|
 	}
-
-
-%	\time 4/4
-%	d'4	cs''2.	|
-%	\time 5/4
-%	a4	ef''1	|
-%	}
-%	\time 4/4
-%	d'4.	cs''2 ~ cs''8	|
-%	\time 5/4
-%	a4.	ef''2..	|
-%	\time 4/4
-%	d'8.	cs''2. ~ cs''16	|
-%	\time 5/4
-%	a4.	ef''2..	|
-
-
 }
-\score {
-	\new Staff \sol
-	\layout { }
-}	
-
-\score {
-	\unfoldRepeats {
-		\new Staff \sol
-		}
- 		\midi {
- 			\context {
-				\Score
-				tempoWholesPerMinute = #(ly:make-moment 111 8)
-			}
- 		}
- 	}
-
+%}
