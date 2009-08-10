@@ -15,16 +15,14 @@ upper =  {
 r1 r4 	|
 r1	r8	\times 2/3 { ef'16.	cs'16. }	|
 r1 r4	|
-r1 r4|
 r2 gs'''8. d''8. cs''4.	|
 r2 gs'''4 d''8 cs''4.	|
-r2 gs'''8. d''8. cs''4.	|
-r2 gs'''4 d''8 cs''4 \times 2/3 {ef'16. cs'16. }	|
+r2 gs'''8. d''8. cs''4	\times 2/3 { ef'16. cs'16. }	|
+r2 gs'''4 d''8 cs''4.	|
+r2 gs'''8. d''8. cs''4	\times 2/3 { ef'16. cs'16. }	|
 r2 gs'''8. d''8. cs''4.	|
 r2 gs'''4 d''8 cs''4.	|
-
 }
-
 lower = {
   \clef bass
   \time 5/4
