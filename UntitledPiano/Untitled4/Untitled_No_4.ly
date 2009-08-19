@@ -11,6 +11,9 @@
 
 upper =  {
   \clef treble
+  
+
+
   \time 5/4
 r1 r4 	|
 r1	r8	\times 2/3 { ef'16.	cs'16. }	|
@@ -25,17 +28,20 @@ r2 gs'''4 d''8 cs''4.	|
 }
 lower = {
   \clef bass
+
+
+
   \time 5/4
-d8. ~ <d cs'>1 ~ <d cs'>16	|
-a,4 ~ <a, ef'>1	|
-d8 ~ <d cs'>1 ~ <d cs'>8	|
-a,4 ~ <a, ef'>1	|
-d8. ~ <d cs'>1 ~ <d cs'>16	|
-a,8. ~ <a, ef'>1 ~ <a, ef'>16	|
-d8 ~ <d cs'>1 ~ <d cs'>8	|
-a,8. ~ <a, ef'>1 ~ <a, ef'>16	|
-d8 ~ <d cs'>1 ~ <d cs'>8	|
-a,8. ~ <a, ef'>1 ~ <a, ef'>16	|
+d8. cs'1 ~ cs'16	|
+a,4 ef'1	|
+d8 cs'1 ~ cs'8	|
+a,4 ef'1	|
+d8. cs'1 ~ cs'16	|
+a,8. ef'1 ~ ef'16	|
+d8 cs'1 ~ cs'8	|
+a,8. ef'1 ~ ef'16	|
+d8 cs'1 ~ cs'8	|
+a,8. ef'1 ~ ef'16	|
 }
 \score {
 	\new PianoStaff <<
