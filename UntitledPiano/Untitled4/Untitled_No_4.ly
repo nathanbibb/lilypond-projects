@@ -8,56 +8,91 @@
 \paper {
  #(set-paper-size "letter")
 }
-
 upper =  {
   \clef treble
   \time 6/4
-  % 1 - 4
-  r2. cs''2.	|  
-  r2 d''1	|
-  r2. cs''2.	|  
-  r2 d''1	|
-  % 5 - 8
-  r2. cs''2.	|  
-  r2 d''1	|
+  % 1 - 6
+  r2. cs''2. ~	|  
+  cs''2 d''1 ~	|
+  d''2.. cs''2 ~ cs''8 ~	|  
+  cs''4. d''1 ~ d''8 ~	|
+  d''2.. cs''2 ~ cs''8 ~	|  
+  cs''2 d''1	|
   \break
+  % 7 - 12
+  d'1.	|
+  cs''1.	|
+  d''1.	|
+  cs'''1.	|
+  d'''1.	|
+  cs''''1.	|
+  \break
+  % 13 - 18
   gs''1.	|
   r2 r8 f''8 ef'''2.	|
-  % 9 - 12
   r2.. cs'''2 ~ cs'''8	|  
   r2. d'''2.	|
   r2 r8 f''2 ef'''4. ~	|
   ef'''4 r1 gs''4 ~	|
   \break
-  % 13 - 16
+  % 19 - 24
   gs''1 cs'2 ~	|
   cs'1 ~ cs'4 d''4 ~	|
-  d''2.	cs''2.	|
+  d''2.	cs''2. ~	|
+  cs''1 d''2 ~	|
+  d''2. ef''2. ~	|
+  ef''1.
+  \break
+  % 25 - 30
+  d'1 ~ d'8 ef'4.	|
+  r1.	|
+  r1.	|
+  r1.	|
+  r1.	|
+  r1.	|
 }
 lower = {
   \clef bass
   \time 6/4
-  % 1 - 4
+  % 1 - 6
   d,,1.	|
   cs,1.	|
   d,1.	|
   cs1.	|
-  % 5 - 8
   d1.	|
-  cs'1.	|
+  cs'1. ~	|
   \break
+  % 7 - 12
+  cs'2. cs'2. ~	|  
+  cs'2 d1 ~	|
+  d2.. cs2 ~ cs8 ~	|  
+  cs4. d,1 ~ d,8 ~	|
+  d,2.. cs,2 ~ cs,8 ~	|  
+  cs,2 d,,1	|
+  \break
+  % 13 - 18
   r1 ef,2	|
   a1.	|
-  % 9 - 12
   d,1.	|
   cs,1.	|
   a1.	|
   r4 a,1 ~ a,4 ~	|
   \break
-  % 13 - 16
+  % 19 - 24
   a,4.  ef,1 a8 ~	|
   a2. d2. ~	|
-  d4 cs,1 ~ cs,4	|
+  d4 cs,1 ~ cs,4 ~	|
+  cs,2.. d,2 ~ d,8	|
+  gs,1.	|
+  a,1. ~	|
+  \break
+  % 25 - 30
+  a,4. cs1 ~ cs8	|
+  r1.	|
+  r1.	|
+  r1.	|
+  r1.	|
+  r1.	|
 }
 \score {
 	\new PianoStaff <<
