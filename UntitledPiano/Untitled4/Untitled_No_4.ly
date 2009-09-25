@@ -54,12 +54,15 @@ upper =  {
   % 31 - 36
   d'1 ~ d'8 ef'4. ~	|
   ef'1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  r8 a'2 d''2 ~ d''8 a''4	|
+  d'''1.	|
+  \time 4/4
+  \repeat volta 2 {
+  r8 a'2 d''4. ~	|
+  d''4 a''4 d'''2 }	|
   \break
   % 37 - 42
+  \time 6/4
   s1.	|
   s1.	|
   s1.	|
@@ -146,12 +149,15 @@ lower = {
   % 31 - 36
   a,4. cs1 ~ cs8	|
   d1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  b2 bf2 a2 ~	|
+  a1.	|
+  \time 4/4
+  \repeat volta 2 {
+  b2 bf2	|
+  a1 }	|
   \break
   % 37 - 42
+  \time 6/4
   s1.	|
   s1.	|
   s1.	|
