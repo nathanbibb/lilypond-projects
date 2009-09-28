@@ -54,6 +54,17 @@ upper =  {
   % 31 - 36
   d'1 ~ d'8 ef'4. ~	|
   ef'1.	|
+
+% break in sections - need to clean up measure numbers below
+
+  \repeat volta 2 {
+  r1. r1. }	|
+  \repeat volta 2 {
+  r16. b''32. c'32. cs'''1 ~ cs'''4 ~ cs'''16 }	|
+  \break
+  % TBD
+  r8. a'2 d''2. ~ d''16	|
+  a''2 d'''1	|
   r8 a'2 d''2 ~ d''8 a''4	|
   d'''1.	|
   \time 4/4
@@ -62,23 +73,23 @@ upper =  {
   d''4 a''4 d'''2 }	|
   \break
   % 37 - 42
-  \time 6/4
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  r8 a'2 d''4. ~	|
+  d''4 a''4 d'''2 	|
+  r8 a'2 d''4. ~	|
+  d''4 a''4 d'''2 	|
+  r8 a'2 d''4. ~	|
+  d''4 a''4 d'''2 	|
   \break
   % 43 - 48
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  <<  { r8 a'2 d''4. ~ }	\\ { s4 cs'''16 c'''16 b''2 s8 } >>	|
+  <<  { d''4 a''4 d'''2 }	\\ { s1 } >>	|
+  <<  { r8 a'2 d''4. ~ }	\\ { s4 cs'''16 c'''16 b''2 s8 } >>	|
+  <<  { d''4 a''4 d'''2 }	\\ { s1 } >>	|
+  <<  { r8 a'2 d''4. ~ }	\\ { s4 b''16 c'''16 cs'''2 s8 } >>	|
+  <<  { d''4 a''4 d'''2 }	\\ { s1 } >>	|
   \break
   % 49 - 54
+  \time 6/4
   s1.	|
   s1.	|
   s1.	|
@@ -149,6 +160,17 @@ lower = {
   % 31 - 36
   a,4. cs1 ~ cs8	|
   d1.	|
+
+% break in sections - need to clean up measure numbers below
+
+  \repeat volta 2 {
+  a,,2 bf,,2 a,,2 bf,,2 a,,2 bf,,2 }	| 
+  \repeat volta 2 {
+  a,32. bf32. r1 r4 r8 r32 }	|
+  \break
+  % TBD
+  b2 bf2 a2 ~	|
+  a1.	|
   b2 bf2 a2 ~	|
   a1.	|
   \time 4/4
@@ -157,23 +179,23 @@ lower = {
   a1 }	|
   \break
   % 37 - 42
-  \time 6/4
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  <b, b>2 <bf, bf>2 	|
+  <a, a>1	|
+  <b, a b>2 <bf, d bf>2 	|
+  <a, d a>1	|
+  <b, a b>2 <bf, d bf>2 	|
+  <a, d a>1	|
   \break
   % 43 - 48
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
+  <b, b>2 <bf, bf>2 	|
+  <a, a>1	|
+  <b, a b>2 <bf, d bf>2 	|
+  <a, d a>1	|
+  <b, a b>2 <bf, d bf>2 	|
+  <a, d a>1	|
   \break
   % 49 - 54
+  \time 6/4
   s1.	|
   s1.	|
   s1.	|
