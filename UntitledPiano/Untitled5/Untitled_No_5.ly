@@ -14,7 +14,7 @@ upper =  {
   % 1 - 6
   \repeat volta 2 {
   r1 r4		|
-  <g' ds''>1 ~ <g' ds''>4	|
+  <g' d''>1 ~ <g' d''>4	|
   }
 }
 lower = {
@@ -23,7 +23,7 @@ lower = {
   % 1 - 6
   \repeat volta 2 {
   cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
-  <cs, fs, e>1 ~ <cs, fs, e>4
+  <cs, e>1 ~ <cs, e>4
   }
 }
 \score {
