@@ -11,11 +11,16 @@
 upper =  {
   \clef treble
   \time 5/4
-  % 1 - 6
-  \repeat volta 2 {
+% 1 - 6
   cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
   <cs, e g' d''>1 ~ <cs, e g' d''>4	|
-  }
+  cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
+  <cs, e gs' d''>1 ~ <cs, e gs' d''>4	|
+  cs,8. ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>16 ~	|
+  <cs, e g' d''>1 ~ <cs, e g' d''>4	|
+\break
+% 7 - 12
+  
 }
 % Printed score disabled while writing on the Libretto
 % \score {
