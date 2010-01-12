@@ -13,32 +13,22 @@ upper =  {
   \time 5/4
   % 1 - 6
   \repeat volta 2 {
-  r1 r4		|
-  <g' d''>1 ~ <g' d''>4	|
-  }
-}
-lower = {
-  \clef bass
-  \time 5/4
-  % 1 - 6
-  \repeat volta 2 {
   cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
-  <cs, e>1 ~ <cs, e>4
+  <cs, e g' d''>1 ~ <cs, e g' d''>4	|
   }
 }
-\score {
-	\new PianoStaff <<
-	\new Staff = "upper" \upper
-	\new Staff = "lower" \lower
-	>>
-	\layout { }
-}
+% Printed score disabled while writing on the Libretto
+% \score {
+%	\new PianoStaff <<
+%	\new Staff = "upper" \upper
+%	>>
+%	\layout { }
+% }
 \score {
 	\unfoldRepeats {
 		\new PianoStaff <<
 		\set PianoStaff.instrumentName = #"Piano  "
 		\new Staff = "upper" \upper
-		\new Staff = "lower" \lower
 		>>
 	}
 	\midi { 
