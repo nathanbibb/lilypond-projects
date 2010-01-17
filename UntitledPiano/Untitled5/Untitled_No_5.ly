@@ -13,14 +13,15 @@ upper =  {
   \time 5/4
 % 1 - 6
   cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
-  <cs, e g' d''>1 ~ <cs, e g' d''>4	|
+  <cs, fs, e g' d''>1 ~ <cs, fs, e g' d''>4	|
   cs,8 ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>8 ~	|
-  <cs, e gs' d''>1 ~ <cs, e gs' d''>4	|
+  <cs, fs, e gs' d''>1 ~ <cs, fs, e gs' d''>4	|
   cs,8. ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>16 ~	|
-  <cs, e g' d''>1 ~ <cs, e g' d''>4	|
+  <cs, fs, e g' d''>1 ~ <cs, fs, e g' d''>4	|
 \break
 % 7 - 12
-  
+  r4.. <cs, fs, g'>16 ~ <cs, fs, e g' d''>2. ~	|
+  <cs, fs, e g' d''>1 fs,8 ~ <fs, f>8	|
 }
 % Printed score disabled while writing on the Libretto
 % \score {
