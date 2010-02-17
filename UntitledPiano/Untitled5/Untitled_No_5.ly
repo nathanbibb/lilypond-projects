@@ -41,7 +41,7 @@ upper =  {
   <gs,, a,, as,,>8 ~ <gs,, a,, as,, f''' gs'''>4. ~ <gs,, a,, as,, f''' gs''' b'''>2.	|
   as,4. ~ <as, f'>4.. ~ <as, a f'>4.. ~	|
   <gs, as, a f'>1 ~ <gs, as, a f'>4	|
-  << { as,4. ~ <as, f'>4.. ~ <as, a f'>4.. ~ }	\\ { \times 5/7 { s2 c,2 b,,2 as,,4 } } >> 	|
+  << { as,4. ~ <as, f'>4. ~ <as, a f'>2 ~ }	\\ { \times 5/7 { s2 c,2 b,,2 as,,4 } } >> 	|
   << { <gs, as, a f'>1 ~ <gs, as, a f'>4 }	\\ { \times 5/7 { s2 c,2 b,,2 as,,4 } } >> 	|
   b,,8. ~ <b,, d>2 ~ <b,, f, d>2 ~ <b,, f, d>16	|
 }
