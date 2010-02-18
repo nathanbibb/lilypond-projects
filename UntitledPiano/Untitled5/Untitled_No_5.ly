@@ -43,7 +43,16 @@ upper =  {
   <gs, as, a f'>1 ~ <gs, as, a f'>4	|
   << { as,4. ~ <as, f'>4. ~ <as, a f'>2 ~ }	\\ { \times 5/7 { s2 c,2 b,,2 as,,4 } } >> 	|
   << { <gs, as, a f'>1 ~ <gs, as, a f'>4 }	\\ { \times 5/7 { s2 c,2 b,,2 as,,4 } } >> 	|
-  b,,8. ~ <b,, d>2 ~ <b,, f, d>2 ~ <b,, f, d>16	|
+  b,,8. ~ <b,, d>2 ~ <b,, f, d>2 ~ <b,, f, d>16	~	|
+\break
+% 25 - 30
+  <b,, f, d f''' gs''' b'''>1 ~<b,, f, d f''' gs''' b''' cs''''>4 ~	|
+  <b,, f, d f''' gs''' b''' cs''''>1 ~ <b,, f, d f''' gs''' b''' cs''''>4	|
+  b,,4 ~ <b,, d>4. ~ <b,, f, d>2 ~ <b,, f, d>8 ~	|
+  << { <b,, f, d gs'''>2. ~ <b,, f, d gs''' b'''>2 }	\\	{ \times 5/7 { s1 f'''2. } } >>	| 
+  as''4. ~ <f' as''>4.. ~ <f' a' as''>4.. ~	|
+  <f' a' as'' gs'''>1 ~ <f' a' as'' gs'''>4	|
+\break
 }
 % Printed score disabled while writing on the Libretto
 % \score {
