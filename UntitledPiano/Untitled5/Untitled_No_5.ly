@@ -53,6 +53,14 @@ upper =  {
   as''4. ~ <f' as''>4.. ~ <f' a' as''>4.. ~	|
   <f' a' as'' gs'''>1 ~ <f' a' as'' gs'''>4	|
 \break
+% 31 - 36
+  as''8. ~ <f' as''>4.. ~ <f' a' as''>2 ~ <f' a' as''>8 ~	|
+  <f' a' as''>8 ~ <f' a' as'' gs'''>1 ~ <f' a' as'' gs'''>8	|
+  d8 ~ <d cs'>2 ~ <ds, d cs'>2 ~ <ds, d cs'>8 ~	|
+  <ds, d cs' c'''>1 ~ <ds, d cs' c'''>4	|
+  d8. ~ <d cs'>2 ~ <ds, d cs'>2 ~ <ds, d cs'>16 ~	|
+  <ds, d cs' c'''>1 ~ <ds, d cs' c'''>4	|
+\break
 }
 % Printed score disabled while writing on the Libretto
 % \score {
