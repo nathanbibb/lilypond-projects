@@ -61,6 +61,22 @@ upper =  {
   d8. ~ <d cs'>2 ~ <ds, d cs'>2 ~ <ds, d cs'>16 ~	|
   <ds, d cs' c'''>1 ~ <ds, d cs' c'''>4	|
 \break
+% 37 - 42
+  cs,8. ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>16 ~	|
+  <cs, fs, e g' d''>1 ~ <cs, fs, e g' d''>4	|
+  cs,8. ~ <cs, e>2 ~ <cs, fs, e>2 ~ <cs, fs, e>16 ~	|
+  <cs, fs, e gs' d''>1 ~ <cs, fs, e gs' d''>4	|
+  cs,4 ~ <cs, e>2 ~ <cs, fs, e>2 ~	|
+  <cs, fs, e g' d''>1 ~ <cs, fs, e g' d''>4 ~	|
+\break
+% 43 - 48
+  <cs, fs, e g' d''>8 <cs'' fs' g>1 ~ <cs'' fs' e g d>8 ~	|
+  <cs'' fs' e g d>1 ~ <cs'' fs' e g d>4	|
+  <c'' fs'>4. ~ <c'' fs' f,>8 ~ <c'' fs' f, gs, cs,>2.	|
+  <cs'' fs' g>2.. ~ <cs'' fs' e g d>4. ~	|
+  <cs'' fs' c e g d>2 c,8 cs''8 g,16. d'16. as16 ds''16 <c''' c''''>8. ~ 	|
+  <c''' c''''>2 c,8 cs''8 g,16. d'16. as16 ds''16 <c''' c''''>8. 	|
+\break
 }
 % Printed score disabled while writing on the Libretto
 % \score {
