@@ -75,8 +75,28 @@ upper =  {
   <c'' fs'>4. ~ <c'' fs' f,>8 ~ <c'' fs' f, gs, cs,>2.	|
   <cs'' fs' g>2.. ~ <cs'' fs' e g d>4. ~	|
   <cs'' fs' c e g d>2 c,8 cs''8 g,16. d'16. as16 ds''16 <c''' c''''>8. ~ 	|
-  <c''' c''''>2 c,8 cs''8 g,16. d'16. as16 ds''16 <c''' c''''>8. 	|
+  <c''' c''''>2 c,8 cs''8 g,16. d'16. as16 ds''16 <c''' c''''>8. ~	|
 \break
+% 49 - 54
+  <c''' c''''>1 ~ <c''' c''''>4	|
+  b2. ~ <c, b>2 ~	|
+  <c, b>4. ~ <e,, c, b>2. ~ <e,, c, b>8 ~	|
+  <e,, c, b>4 ~ <e,, c, b g'>1 ~	|
+  <e,, c, b g'>8 b2.. ~ <c, b>4 ~	|
+  <c, b>2.. ~ <e,, c, b>4. ~	|
+\break
+% 55 - 60
+  <e,, c, b>1 ~ <e,, c, b>4 ~	|
+  <e,, c, b g'>1 ~ <e,, c, b g'>4 ~	|
+  <e,, c, b g'>4. b2.. ~	|
+  b4 ~ <as,, b>1 ~	|
+  <as,, b>2 ~ <as,, b>8 ~ <e,, as,, b>2 ~ <e,, as,, b>8 ~	|
+  <e,, as,, b>1 ~ <e,, as,, b>4 ~	|
+\break
+% 61 - 63
+  <e,, as,, b>2. ~ <e,, as,, b g'>2 ~	|
+  <e,, as,, b g'>1 ~ <e,, as,, b g'>4 ~	|
+  <e,, as,, b g'>2.. r4.	|
 }
 % Printed score disabled while writing on the Libretto
 % \score {

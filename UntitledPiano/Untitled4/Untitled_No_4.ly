@@ -68,7 +68,6 @@ upper =  {
   r8 a'2 d''2 ~ d''8 a''4	|
   d'''1.	|
 
-% Add variation here
   % 19 - 24
   gs''1.	|
   r2 r8 f''8 ef'''2.	|
@@ -87,7 +86,7 @@ upper =  {
   \break
   % 31 - 36
   d'1 ~ d'8 ef'4. ~	|
-
+  ef'1.	|
   \time 4/4
   \repeat volta 2 {
   r8 a'2 d''4. ~	|
@@ -118,22 +117,8 @@ upper =  {
   % 49 - 54
   \time 6/4
   \break
-  % 55 - 60
+  % 55
   s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  \break
-  % 61 - 66
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  \break
 }
 lower = {
   \clef bass
@@ -195,7 +180,6 @@ lower = {
   b2 bf2 a2 ~	|
   a1.	|
   
-  % Add variation here
   % 19 - 24
   r1 ef,2	|
   a1.	|
@@ -214,6 +198,7 @@ lower = {
   \break
   % 31 - 36
   a,4. cs1 ~ cs8	|
+  r1.	|
   
   \time 4/4
   \repeat volta 2 {
@@ -245,22 +230,8 @@ lower = {
   <a, d a>1	|
   \time 6/4
   \break
-  % 55 - 60
+  % 55
   s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  \break
-  % 61 - 66
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  s1.	|
-  \break
 }
 \score {
 	\new PianoStaff <<
