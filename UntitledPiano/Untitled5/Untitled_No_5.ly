@@ -99,12 +99,12 @@ upper =  {
   <e,, as,, b g'>2.. r4.	|
 }
 % Printed score disabled while writing on the Libretto
-% \score {
-%	\new PianoStaff <<
-%	\new Staff = "upper" \upper
-%	>>
-%	\layout { }
-% }
+ \score {
+	\new PianoStaff <<
+	\new Staff = "upper" \upper
+	>>
+	\layout { }
+ }
 \score {
 	\unfoldRepeats {
 		\new PianoStaff <<
