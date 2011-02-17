@@ -12,7 +12,9 @@ upper =  {
   \clef treble
   \time 5/16
   % 1 - 6
-  d''''4 ~ d''''16	|
+  r8 bf'8.	|
+  d'4 r16	|
+  r4 r16	|
   \break
 }
 
@@ -20,7 +22,9 @@ lower = {
   \clef bass
   \time 5/16
   % 1 - 6
-  d,,4 ~ d,,16	|
+  ef,8 r8.	|
+  r4 bf,16 ~	|
+  bf,4 ~ bf,16	|
   \break
 }
 
