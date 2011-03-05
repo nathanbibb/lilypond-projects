@@ -31,7 +31,12 @@ lower = {
 	\new Staff = "upper" \upper
 	\new Staff = "lower" \lower
 	>>
-	\layout { }
+	\layout {
+	  \context {
+	    \Score 
+	    proportionalNotationDuration = #(ly:make-moment 1 16)
+	  }
+	}
 }
 \score {
 	\unfoldRepeats {
