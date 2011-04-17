@@ -12,7 +12,7 @@
 hiaaa = { r8 \sustainOn d'8.  | r4 ef'16 ~ | ef'4 s16 | }
 loaaa = { s4 \sustainOn s16   | cs'4 s16   | r8 c'8.  | }
 
-hiaab = { r8 d'8. | r4 c'16  | ef'4 s16 | }
+hiaab = { r8 d'8. | r4 c'16  | ef'4 r16 | }
 loaab = { s4 s16  | r16 cs'4 | s4 s16   | }
 
 hiaac = { r16 d'4 | r4 ef'16 ~ | ef'4 r16 | }
@@ -21,29 +21,29 @@ loaac = { s4 s16  | cs'4 r16   | r8 c'8.  | }
 hiaad = { s4 s16   | r16 cs'4 | r8 ef'8. | }
 loaad = { r8. d8 ~ | d4 r16   | c'4 r16  | }
 
-hiaae = { s4 s16 | cs'4 r16   | r8 c'8. | } 
+hiaae = { s4 s16 | cs'4 r16   | r8. c'8 | } 
 loaae = { r8 d8. | r4 ef,16 ~ | ef,4 r16  | }
 
 hiaaf = { s4 s16   | r16 cs'4 | r8. c''8 |}
 loaaf = { r8. d8 ~ | d4 r16   | ef,4 r16 | }
 
-hiaag = { }
-loaag = { }
+hiaag = { s4 s16 | cs'4 r16    | r8 c'''8. | }
+loaag = { r8. d8 | r4 ef,16 ~ | ef,4 r16  | }
 
-hiaah = { }
-loaah = { }
+hiaah = { s4 s16 | cs'4 r16   | r8 c'''8. | }
+loaah = { r4 d16 | r4 ef,16 ~ | ef,4 r16  | }
 
-hiaai = { }
-loaai = { }
+hiaai = { r8 d'8. | r4 ef'''16 ~ | ef'''4 r16 | }
+loaai = { s4 s16  | cs4 r16      | r8 c,8.    | }
 
-hiaaj = { }
-loaaj = { }
+hiaaj = { s4 s16  | d'4 r16   | r8 ef'''8. | }
+loaaj = { r8 cs8. | r4 c,16 ~ | c,4 r16    | }
 
-hiaak = { }
-loaak = { }
+hiaak = { r8 d'8. | s4 s16     | ef'''4 r16 | }
+loaak = { s4 s16  | cs4 ~ cs16 | r8. c,8    | }
 
-hiaal = { }
-loaal = { }
+hiaal = { s4 s16 | cs'4 r16  | r8 ef'''8. | }
+loaal = { r16 d4 | r4 c,16 ~ | c,4 r16    | }
 
 
 upper =  {
@@ -88,7 +88,7 @@ lower = {
 	\midi { 
 	 	\context {
 			\Score
-			tempoWholesPerMinute = #(ly:make-moment 62 16)
+			tempoWholesPerMinute = #(ly:make-moment 72 16)
 			}
 	}
 }
