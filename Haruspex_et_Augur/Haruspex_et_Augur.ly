@@ -48,22 +48,22 @@ loaal = { r16 d4 | r4 c,16 ~ | c,4 r16    | }
 
 upper =  {
   \clef treble
-  \time 5/16 \hiaaa \time 4/16 { s4 } \time 5/16 \hiaab \time 3/16 { s8. \break }
-  \time 5/16 \hiaac \time 3/16 { s8. } \time 5/16 \hiaad \time 4/16 { s4 \break }
-  \time 5/16 \hiaae \time 3/16 { s8. } \time 5/16 \hiaaf \time 3/16 { s8. \break }
-  \time 5/16 \hiaag \time 4/16 { s4 } \time 5/16 \hiaah \time 7/16 { s4.. \break }
-  \time 5/16 \hiaai \time 2/16 { s8 } \time 5/16 \hiaaj \time 3/16 { s8. \break }
-  \time 5/16 \hiaak \time 4/16 { s4 } \time 5/16 \hiaal \time 3/16 { s8. \break }
+  \time 5/16 \hiaaa \time 4/16 { s4 \break } \time 5/16 \hiaab \time 3/16 { s8. \break }
+  \time 5/16 \hiaac \time 3/16 { s8. \break } \time 5/16 \hiaad \time 4/16 { s4 \break }
+  \time 5/16 \hiaae \time 3/16 { s8. \break } \time 5/16 \hiaaf \time 3/16 { s8. \break }
+  \time 5/16 \hiaag \time 4/16 { s4 \break } \time 5/16 \hiaah \time 7/16 { s4.. \break }
+  \time 5/16 \hiaai \time 2/16 { s8 \break } \time 5/16 \hiaaj \time 3/16 { s8. \break }
+  \time 5/16 \hiaak \time 4/16 { s4 \break } \time 5/16 \hiaal \time 3/16 { s8. \break }
 }
 
 lower = {
   \clef bass
-  \time 5/16 \loaaa \time 4/16 { s4 } \time 5/16 \loaab \time 3/16 { s8. \break }
-  \time 5/16 \loaac \time 3/16 { s8. } \time 5/16 \loaad \time 4/16 { s4 \break }
-  \time 5/16 \loaae \time 3/16 { s8. } \time 5/16 \loaaf \time 3/16 { s8. \break }
-  \time 5/16 \loaag \time 4/16 { s4 } \time 5/16 \loaah \time 7/16 { s4.. \break }
-  \time 5/16 \loaai \time 2/16 { s8 } \time 5/16 \loaaj \time 3/16 { s8. \break }
-  \time 5/16 \loaak \time 4/16 { s4 } \time 5/16 \loaal \time 3/16 { s8. \break }
+  \time 5/16 \loaaa \time 4/16 { s4 \break } \time 5/16 \loaab \time 3/16 { s8. \break }
+  \time 5/16 \loaac \time 3/16 { s8. \break } \time 5/16 \loaad \time 4/16 { s4 \break }
+  \time 5/16 \loaae \time 3/16 { s8. \break } \time 5/16 \loaaf \time 3/16 { s8. \break }
+  \time 5/16 \loaag \time 4/16 { s4 \break } \time 5/16 \loaah \time 7/16 { s4.. \break }
+  \time 5/16 \loaai \time 2/16 { s8 \break } \time 5/16 \loaaj \time 3/16 { s8. \break }
+  \time 5/16 \loaak \time 4/16 { s4 \break } \time 5/16 \loaal \time 3/16 { s8. \break }
 }
 \score {
 	\new PianoStaff <<
