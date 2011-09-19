@@ -87,7 +87,7 @@ upper =  {
   \time 5/16 \hiaao \time 4/16 { s4 \break }  \time 5/16 \hiaap \time 8/16 { s2 \break }
   \time 5/16 \hiaaq \time 4/16 { s4 }  \time 5/16 \hiaar \time 6/16 { s4. \break }
   \time 5/16 \hiaas \time 4/16 { s4 }  \time 5/16 \hiaat \time 6/16 { s4. \break }
-  \time 5/16 \hiaau \hiaav \time 3/16 { s8. }
+  \time 5/16 \hiaau { \break }                    \hiaav \time 3/16 { s8. }
 }
 
 lower = {
@@ -127,7 +127,7 @@ lower = {
 	\midi { 
 	 	\context {
 			\Score
-			tempoWholesPerMinute = #(ly:make-moment 72 16)
+			tempoWholesPerMinute = #(ly:make-moment 82 16)
 			}
 	}
 }
