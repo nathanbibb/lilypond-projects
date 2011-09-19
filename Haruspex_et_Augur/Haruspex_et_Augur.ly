@@ -69,11 +69,26 @@ loaas = { <c' cs>4 r16          | }
 hiaat = { <d''' ef''>4 d''''16 | }
 loaat = { <cs' c>4 r16         | }
 
-hiaau = { <a'' bf'>4 r16 | <ds''' f''>4 r16 | <gs'' c''>4 r16 | <d''' ef''>4 r16 | }
-loaau = { <f' fs>4   r16 | <fs a,>4     r16 | <a bf,>4    r16 | <f cs>4      r16 | }
+hiaau = { <a'' bf'>4 r16 | }
+loaau = { <f' fs>4   r16 | }
 
-hiaav = { <cs'' f'>4 r16 | <d'' f'>4 r16 | <d'' fs'>4 r16 | }
-loaav = { <d' fs>4   r16 | <d' f>4   r16 | <cs' f>4   r16 | }
+hiaav = { <ds''' f''>4 r16 | }
+loaav = { <fs a,>4     r16 | }
+
+hiaaw = { <gs'' c''>4 r16 | }
+loaaw = { <a bf,>4    r16 | }
+
+hiaax = { <d''' ef''>4 r16 | }
+loaax = { <f cs>4      r16 | }
+
+hiaay = { <cs'' f'>4 r16 | }
+loaay = { <d' fs>4   r16 | }
+
+hiaaz = { <d'' f'>4 r16 | }
+loaaz = { <d' f>4   r16 | }
+
+hiaba = { <d'' fs'>4 r16 | }
+loaba = { <cs' f>4   r16 | }
 
 upper =  {
   \clef treble
@@ -87,7 +102,7 @@ upper =  {
   \time 5/16 \hiaao \time 4/16 { s4 \break }  \time 5/16 \hiaap \time 8/16 { s2 \break }
   \time 5/16 \hiaaq \time 4/16 { s4 }  \time 5/16 \hiaar \time 6/16 { s4. \break }
   \time 5/16 \hiaas \time 4/16 { s4 }  \time 5/16 \hiaat \time 6/16 { s4. \break }
-  \time 5/16 \hiaau { \break }                    \hiaav \time 3/16 { s8. }
+%  \time 5/16 \hiaau { \break }                    \hiaav \time 3/16 { s8. }
 }
 
 lower = {
@@ -102,7 +117,7 @@ lower = {
   \time 5/16 \loaao \time 4/16 { s4 \break }  \time 5/16 \loaap \time 8/16 { s2 \break }
   \time 5/16 \loaaq \time 4/16 { s4 }  \time 5/16 \loaar \time 6/16 { s4. \break }
   \time 5/16 \loaas \time 4/16 { s4 }  \time 5/16 \loaat \time 6/16 { s4. \break }
-  \time 5/16 \loaau { \break }                    \loaav \time 3/16 { s8. \break }
+%  \time 5/16 \loaau { \break }                    \loaav \time 3/16 { s8. \break }
 }
 \score {
 	\new PianoStaff <<
