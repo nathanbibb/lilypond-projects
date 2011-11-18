@@ -92,32 +92,34 @@ loaba = { <cs' f>4   r16 | }
 
 upper =  {
   \clef treble
-  \time 5/16 \hiaaa \time 4/16 { s4 \break }  \time 5/16 \hiaab \time 3/16 { s8. \break }
-  \time 5/16 \hiaac \time 3/16 { s8. \break } \time 5/16 \hiaad \time 4/16 { s4 \break }
-  \time 5/16 \hiaae \time 3/16 { s8. \break } \time 5/16 \hiaaf \time 3/16 { s8. \break }
-  \time 5/16 \hiaag \time 4/16 { s4 \break }  \time 5/16 \hiaah \time 7/16 { s4.. \break }
-  \time 5/16 \hiaai \time 2/16 { s8 \break }  \time 5/16 \hiaaj \time 3/16 { s8. \break }
-  \time 5/16 \hiaak \time 4/16 { s4 \break }  \time 5/16 \hiaal \time 4/16 { s4 \break }
-  \time 5/16 \hiaam \time 3/16 { s8. \break } \time 5/16 \hiaan \time 3/16 { s8. \break }
-  \time 5/16 \hiaao \time 4/16 { s4 \break }  \time 5/16 \hiaap \time 8/16 { s2 \break }
-  \time 5/16 \hiaaq \time 4/16 { s4 }  \time 5/16 \hiaar \time 6/16 { s4. \break }
-  \time 5/16 \hiaas \time 4/16 { s4 }  \time 5/16 \hiaat \time 6/16 { s4. \break }
-%  \time 5/16 \hiaau { \break }                    \hiaav \time 3/16 { s8. }
+  \time 5/16 \hiaaa \time 4/16 { s4 \break }  \time 5/16 \hiaab         \time 3/16 { s8. \break }
+  \time 5/16 \hiaac \time 3/16 { s8. \break } \time 5/16 \hiaad         \time 4/16 { s4 \break }
+  \time 5/16 \hiaae \time 3/16 { s8. \break } \time 5/16 \hiaaf         \time 3/16 { s8. \break }
+  \time 5/16 \hiaag \time 4/16 { s4 \break }  \time 5/16 \hiaah         \time 7/16 { s4.. \break }
+  \time 5/16 \hiaai \time 2/16 { s8 \break }  \time 5/16 \hiaaj         \time 3/16 { s8. \break }
+  \time 5/16 \hiaak \time 4/16 { s4 \break }  \time 5/16 \hiaal         \time 4/16 { s4 \break }
+  \time 5/16 \hiaam \time 3/16 { s8. \break } \time 5/16 \hiaan         \time 3/16 { s8. \break }
+  \time 5/16 \hiaao \time 4/16 { s4 \break }  \time 5/16 \hiaap         \time 8/16 { s2 \break }
+  \time 5/16 \hiaaq \time 4/16 { s4 }         \time 5/16 \hiaar         \time 6/16 { s4. \break }
+  \time 5/16 \hiaas \time 4/16 { s4 }         \time 5/16 \hiaat         \time 6/16 { s4. \break }
+  \time 5/16 \hiaau \hiaav                    \time 3/16 { s8. }        \time 5/16 \hiaaw
+  \hiaax            \hiaay                    \hiaaz                    \hiaba
 }
 
 lower = {
   \clef bass
-  \time 5/16 \loaaa \time 4/16 { s4 \break }  \time 5/16 \loaab \time 3/16 { s8. \break }
-  \time 5/16 \loaac \time 3/16 { s8. \break } \time 5/16 \loaad \time 4/16 { s4 \break }
-  \time 5/16 \loaae \time 3/16 { s8. \break } \time 5/16 \loaaf \time 3/16 { s8. \break }
-  \time 5/16 \loaag \time 4/16 { s4 \break }  \time 5/16 \loaah \time 7/16 { s4.. \break }
-  \time 5/16 \loaai \time 2/16 { s8 \break }  \time 5/16 \loaaj \time 3/16 { s8. \break }
-  \time 5/16 \loaak \time 4/16 { s4 \break }  \time 5/16 \loaal \time 4/16 { s4 \break }
-  \time 5/16 \loaam \time 3/16 { s8. \break } \time 5/16 \loaan \time 3/16 { s8. \break }
-  \time 5/16 \loaao \time 4/16 { s4 \break }  \time 5/16 \loaap \time 8/16 { s2 \break }
-  \time 5/16 \loaaq \time 4/16 { s4 }  \time 5/16 \loaar \time 6/16 { s4. \break }
-  \time 5/16 \loaas \time 4/16 { s4 }  \time 5/16 \loaat \time 6/16 { s4. \break }
-%  \time 5/16 \loaau { \break }                    \loaav \time 3/16 { s8. \break }
+  \time 5/16 \loaaa \time 4/16 { s4 \break }  \time 5/16 \loaab         \time 3/16 { s8. \break }
+  \time 5/16 \loaac \time 3/16 { s8. \break } \time 5/16 \loaad         \time 4/16 { s4 \break }
+  \time 5/16 \loaae \time 3/16 { s8. \break } \time 5/16 \loaaf         \time 3/16 { s8. \break }
+  \time 5/16 \loaag \time 4/16 { s4 \break }  \time 5/16 \loaah         \time 7/16 { s4.. \break }
+  \time 5/16 \loaai \time 2/16 { s8 \break }  \time 5/16 \loaaj         \time 3/16 { s8. \break }
+  \time 5/16 \loaak \time 4/16 { s4 \break }  \time 5/16 \loaal         \time 4/16 { s4 \break }
+  \time 5/16 \loaam \time 3/16 { s8. \break } \time 5/16 \loaan         \time 3/16 { s8. \break }
+  \time 5/16 \loaao \time 4/16 { s4 \break }  \time 5/16 \loaap         \time 8/16 { s2 \break }
+  \time 5/16 \loaaq \time 4/16 { s4 }         \time 5/16 \loaar         \time 6/16 { s4. \break }
+  \time 5/16 \loaas \time 4/16 { s4 }         \time 5/16 \loaat         \time 6/16 { s4. \break }
+  \time 5/16 \loaau \loaav                    \time 3/16 { s8. }        \time 5/16 \loaaw { \break }
+  \loaax            \loaay                    \loaaz                    \loaba
 }
 \score {
 	\new PianoStaff <<
