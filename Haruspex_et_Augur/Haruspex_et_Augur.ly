@@ -144,7 +144,7 @@ lower = {
 	\midi { 
 	 	\context {
 			\Score
-			tempoWholesPerMinute = #(ly:make-moment 82 16)
+			tempoWholesPerMinute = #(ly:make-moment 96 16)
 			}
 	}
 }
